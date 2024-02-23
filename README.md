@@ -10,3 +10,8 @@ Card 2 - This is basically a hovercard
 
 Card 3 - Simple Classical design
 Live link - https://eloquent-cascaron-8a5979.netlify.app/
+
+
+
+Card 4 - GlassMorphism design
+Live link - https://65d8287880272999358e3454--jocular-begonia-c6ab5f.netlify.app/

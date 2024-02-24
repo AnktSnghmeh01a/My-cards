@@ -21,3 +21,5 @@ Live link - https://65d9f205145040fb4890fbef--jocular-begonia-c6ab5f.netlify.app
 Card 5 - Sleeping hover card modern design
 Live link - https://65d85363cf8796bb6ce2110b--fancy-baklava-ebf95d.netlify.app/
 
+Card 6 - Unique border design
+Live Link - https://65d9fc6732ace302f0d6f8b1--inspiring-beignet-1a831f.netlify.app/

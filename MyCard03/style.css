@@ -1,0 +1,101 @@
+*,*::before,*::after{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  height: 100vh;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+h2{
+  text-align: center;
+}
+
+.card{
+width: 20em;
+min-height: 25em;
+border-radius: 1em;
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 1em;
+background-color: #e8e9eb38;
+box-shadow: 1px 3px 4px 0px #000000;
+}
+
+.profile-img-div{
+  height: 10em;
+  width: 10em;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-bottom: 0.5em;
+  margin-top: 1em;
+  box-shadow: 3px 5px 6px 1px black;
+}
+.profile-img-div img{
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+.text-portion{
+  font-family: 'poppins';
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  gap: 1em;
+}
+.text-portion h2{
+  font-weight: 200;
+}
+.text-portion p{
+  text-align: center;
+  padding: 0 1em;
+}
+
+.links-part{
+  display: flex;
+  gap: 1em;
+  margin-top: 2em;
+}
+.links-part a{
+  text-decoration: none;
+  font-size: 1.5em;
+  color: #000000;
+}
+@keyframes moveUpDown {
+  0% {
+    transform: translateY(0); /* Start position */
+  }
+  50% {
+    transform: translateY(-5px); /* Move up */
+  }
+  100% {
+    transform: translateY(0); /* Back to start position */
+  }
+}
+
+.links-part a:nth-child(1) i {
+  animation: moveUpDown 1s infinite; /* Apply the animation to the first icon */
+}
+
+.links-part a:nth-child(2) i {
+  animation: moveUpDown 0.8s infinite 0.5s; /* Apply the animation to the second icon with a delay of 0.5s */
+}
+
+.links-part a:nth-child(3) i {
+  animation: moveUpDown 0.62s infinite 1s; /* Apply the animation to the third icon with a delay of 1s */
+}
+
+.links-part a:nth-child(4) i {
+  animation: moveUpDown 0.7s infinite 1.5s; /* Apply the animation to the fourth icon with a delay of 1.5s */
+}
+
+.links-part a:nth-child(5) i {
+  animation: moveUpDown 0.7s infinite 2s; /* Apply the animation to the fifth icon with a delay of 2s */
+}
+

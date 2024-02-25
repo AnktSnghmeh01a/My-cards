@@ -1,0 +1,78 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body{
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100%;
+  cursor: pointer;
+  font-family: 'poppins';
+}
+
+
+.parent-div{
+   min-height: 24em;
+   width: 21em;
+   padding: 1em 0;
+   display: flex;
+   align-items: center;
+   flex-direction: column;
+   justify-content: flex-end;
+   border: 10px solid #6d6868;
+   border-radius: 1em;
+   background-image: url('https://images.pexels.com/photos/412840/pexels-photo-412840.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load');
+   background-repeat: no-repeat;
+   background-size: cover;
+   color: #ffff;
+  }
+
+.text-portion{
+   display: flex;
+   flex-direction: column;
+   gap: 0.2em;
+   margin-bottom: 0.4em;
+}
+
+.text-portion h1{
+  text-align: center;
+  font-weight: 300;
+  font-size: 1.5em;
+  
+}
+.second-text{
+  display: flex;
+}
+.second-text h2{
+  font-weight: 200;
+  padding: 0em 0.3em;
+  font-size: 1.3em;
+}
+
+.first-text{
+  border-right: 2px solid rgb(243, 243, 243);
+}
+
+.links-part{
+  display: flex;
+  gap: 0.6em;
+}
+.links-part a{
+   height: 2.3em;
+   width: 2.3em;
+   border: 2px solid #ffff;
+   border-radius: 50%;
+   text-align: center;
+   padding: 0.3em 0.1em;
+
+}
+.links-part a i{
+  font-size: 1.3em;
+  color: #ffff;
+}

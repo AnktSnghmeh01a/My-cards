@@ -24,9 +24,13 @@ Card 6 - Unique border design
 Live Link - https://65d9fc6732ace302f0d6f8b1--inspiring-beignet-1a831f.netlify.app/
 
 
-Card 7 - Professional  design (Part 1)
+Card 7 - Professional  design (1)
 Live Link - https://65dac70eb91d7c84d0a1db46--admirable-salamander-fb59de.netlify.app/
 
 
-Card 8 - Professional desing (Part 2)
+Card 8 - Professional desing (2)
 Live link - https://65daf04161370c9c2e87c844--gleeful-haupia-098454.netlify.app/
+
+
+Card 9 - Hover card design (1)
+Live link - https://65db02dffd5529a438ec990e--strong-madeleine-8e29c7.netlify.app/

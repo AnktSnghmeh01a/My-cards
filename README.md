@@ -37,4 +37,4 @@ Live link - https://65db02dffd5529a438ec990e--strong-madeleine-8e29c7.netlify.ap
 
 
 Card 10 - Hover card design (2)
-Live link - https://65db0f71b91d7cb1f8a1db52--astounding-meerkat-3f6559.netlify.app/ 
+Live link - https://65dc68d532ace3a535d6f9c3--gleeful-strudel-14c3ad.netlify.app/

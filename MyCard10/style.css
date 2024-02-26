@@ -1,0 +1,104 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100%;
+  font-family: 'poppins';
+}
+
+.parent-div{
+   height: 23em;
+   width: 23em;
+   background-image: url('https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?auto=compress&cs=tinysrgb&w=600');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;  
+  overflow: hidden;
+  border-radius: 2em;
+  padding: 1em;
+  cursor: pointer;
+  gap: 0.4em;
+  box-shadow: 5px 6px 0px 2px #000000;
+}
+
+.child{
+  height: 10em;
+  width: 10em;
+  border-radius: 2em;
+  padding: 0.5em;
+  transition: 0.5s ease-in-out;
+  box-shadow: 3px 2px 0px #290f0f;
+
+}
+
+.child1{
+ background-image: url('https://images.pexels.com/photos/1659438/pexels-photo-1659438.jpeg?auto=compress&cs=tinysrgb&w=600');
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ transform: rotate(10deg);
+
+}
+.child1:hover{
+ background-color: rgb(189, 31, 31);
+ color: #ffff;
+ border-radius: 50%;
+ transform: rotate(0deg);
+}
+.child2:hover{
+  background-color: rgba(143, 211, 40, 0.651);
+ color: #ffff;
+ border-radius: 50%;
+ transform: rotate(0deg);
+
+}
+.child3:hover{
+  background-color: #4949d1a2;
+  color: #ffff;
+  border-radius: 50%;
+  transform: rotate(0deg);
+
+
+}
+
+.child4:hover{
+  background-color: #ffa60088;
+  color: #ffff;
+  border-radius: 50%;
+  transform: rotate(0deg);
+
+}
+.child2{
+  background-image: url('https://images.pexels.com/photos/1658967/pexels-photo-1658967.jpeg?auto=compress&cs=tinysrgb&w=600');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  transform: rotate(20deg);
+
+}
+.child3{
+  background-image: url('https://images.pexels.com/photos/705075/pexels-photo-705075.jpeg?auto=compress&cs=tinysrgb&w=600');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  transform: rotate(25deg);
+
+}
+.child4{
+  background-image: url('https://images.pexels.com/photos/2443865/pexels-photo-2443865.jpeg?auto=compress&cs=tinysrgb&w=600');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  transform: rotate(30deg);
+
+}

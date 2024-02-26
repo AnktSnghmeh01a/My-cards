@@ -1,11 +1,11 @@
 // Live link of all cards hosted on Netlify
 
 Card 1 - This is basically a hovercard 
- Live link - https://visionary-clafoutis-86ccad.netlify.app/
+ Live link - https://65dc62371450409def90d9d0--reliable-lily-a4eb02.netlify.app/
 
 
 Card 2 - This is basically a hovercard 
- Live link - https://bright-jalebi-25e9b9.netlify.app/
+ Live link - https://65dc626c3712089df1006e90--beautiful-mandazi-0479b4.netlify.app/
  
 
 Card 3 - Simple Classical design

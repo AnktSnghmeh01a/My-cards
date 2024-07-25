@@ -55,4 +55,4 @@ Special thanks to my fellow developers who collaborated on this project. Your su
 This project is licensed under the MIT License.
 
 ## Contact
-For any inquiries or further information, feel free to reach out to me at [your email address].
+For any inquiries or further information, feel free to reach out to me at ankitsinghmehra12345678@gmail.com.
